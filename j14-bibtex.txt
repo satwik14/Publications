@@ -1,0 +1,9 @@
+@article{alrahis2021unsail,
+  title={UNSAIL: Thwarting oracle-less machine learning attacks on logic locking},
+  author={Alrahis, Lilas and Patnaik, Satwik and Knechtel, Johann and Saleh, Hani and Mohammad, Baker and Al-Qutayri, Mahmoud and Sinanoglu, Ozgur},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={16},
+  pages={2508--2523},
+  year={2021},
+  publisher={IEEE}
+}

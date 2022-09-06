@@ -1,0 +1,10 @@
+@article{park2020design,
+  title={Design Flow for Active Interposer-Based 2.5-D ICs and Study of RISC-V Architecture With Secure NoC},
+  author={Park, Heechun and Kim, Jinwoo and Chekuri, Venkata Chaitanya Krishna and Dolatsara, Majid Ahadi and Nabeel, Mohammed and Bojesomo, Alabi and Patnaik, Satwik and Sinanoglu, Ozgur and Swaminathan, Madhavan and Mukhopadhyay, Saibal and others},
+  journal={IEEE Transactions on Components, Packaging and Manufacturing Technology},
+  volume={10},
+  number={12},
+  pages={2047--2060},
+  year={2020},
+  publisher={IEEE}
+}

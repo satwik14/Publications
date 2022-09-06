@@ -1,0 +1,7 @@
+@article{rai2020security,
+  title={Security promises and vulnerabilities in emerging reconfigurable nanotechnology-based circuits},
+  author={Rai, Shubham and Patnaik, Satwik and Rupani, Ansh and Knechtel, Johann and Sinanoglu, Ozgur and Kumar, Akash},
+  journal={IEEE Transactions on Emerging Topics in Computing},
+  year={2020},
+  publisher={IEEE}
+}

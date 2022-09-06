@@ -1,0 +1,10 @@
+@article{alrahis2021omla,
+  title={OMLA: An oracle-less machine learning-based attack on logic locking},
+  author={Alrahis, Lilas and Patnaik, Satwik and Shafique, Muhammad and Sinanoglu, Ozgur},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume={69},
+  number={3},
+  pages={1602--1606},
+  year={2021},
+  publisher={IEEE}
+}

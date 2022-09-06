@@ -1,0 +1,10 @@
+@article{knechtel2019toward,
+  title={Toward physically unclonable functions from plasmonics-enhanced silicon disc resonators},
+  author={Knechtel, Johann and Gosciniak, Jacek and Bojesomo, Alabi and Patnaik, Satwik and Sinanoglu, Ozgur and Rasras, Mahmoud},
+  journal={Journal of Lightwave Technology},
+  volume={37},
+  number={15},
+  pages={3805--3814},
+  year={2019},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{patnaik2019spin,
+  title={Spin-orbit torque devices for hardware security: From deterministic to probabilistic regime},
+  author={Patnaik, Satwik and Rangarajan, Nikhil and Knechtel, Johann and Sinanoglu, Ozgur and Rakheja, Shaloo},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  volume={39},
+  number={8},
+  pages={1591--1606},
+  year={2019},
+  publisher={IEEE}
+}

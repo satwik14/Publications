@@ -1,0 +1,7 @@
+@article{rangarajan2020opening,
+  title={Opening the doors to dynamic camouflaging: Harnessing the power of polymorphic devices},
+  author={Rangarajan, Nikhil and Patnaik, Satwik and Knechtel, Johann and Karri, Ramesh and Sinanoglu, Ozgur and Rakheja, Shaloo},
+  journal={IEEE Transactions on Emerging Topics in Computing},
+  year={2020},
+  publisher={IEEE}
+}

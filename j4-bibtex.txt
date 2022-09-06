@@ -1,0 +1,10 @@
+@article{patnaik2019modern,
+  title={A modern approach to IP protection and trojan prevention: Split manufacturing for 3D ICs and obfuscation of vertical interconnects},
+  author={Patnaik, Satwik and Ashraf, Mohammed and Sinanoglu, Ozgur and Knechtel, Johann},
+  journal={IEEE Transactions on Emerging Topics in Computing},
+  volume={9},
+  number={4},
+  pages={1815--1834},
+  year={2019},
+  publisher={IEEE}
+}

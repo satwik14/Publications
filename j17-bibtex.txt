@@ -1,0 +1,7 @@
+@article{alrahis2021gnn,
+  title={Gnn-re: Graph neural networks for reverse engineering of gate-level netlists},
+  author={Alrahis, Lilas and Sengupta, Abhrajit and Knechtel, Johann and Patnaik, Satwik and Saleh, Hani and Mohammad, Baker and Al-Qutayri, Mahmoud and Sinanoglu, Ozgur},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  year={2021},
+  publisher={IEEE}
+}

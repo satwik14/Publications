@@ -1,0 +1,9 @@
+@article{limaye2021polyworm,
+  title={PolyWorm: Leveraging Polymorphic Behavior to Implant Hardware Trojans},
+  author={Limaye, Nimisha and Rangarajan, Nikhil and Patnaik, Satwik and Sinanoglu, Ozgur and Basu, Kanad},
+  journal={IEEE Transactions on Emerging Topics in Computing},
+  number={01},
+  pages={1--1},
+  year={2021},
+  publisher={IEEE Computer Society}
+}

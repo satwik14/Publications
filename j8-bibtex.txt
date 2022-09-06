@@ -1,0 +1,10 @@
+@article{knechtel2020power,
+  title={Power side-channel attacks in negative capacitance transistor},
+  author={Knechtel, Johann and Patnaik, Satwik and Nabeel, Mohammed and Ashraf, Mohammed and Chauhan, Yogesh S and Henkel, J{\"o}rg and Sinanoglu, Ozgur and Amrouch, Hussam},
+  journal={IEEE Micro},
+  volume={40},
+  number={6},
+  pages={74--84},
+  year={2020},
+  publisher={IEEE}
+}

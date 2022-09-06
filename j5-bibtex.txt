@@ -1,0 +1,10 @@
+@article{patnaik2020obfuscating,
+  title={Obfuscating the interconnects: Low-cost and resilient full-chip layout camouflaging},
+  author={Patnaik, Satwik and Ashraf, Mohammed and Sinanoglu, Ozgur and Knechtel, Johann},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  volume={39},
+  number={12},
+  pages={4466--4481},
+  year={2020},
+  publisher={IEEE}
+}

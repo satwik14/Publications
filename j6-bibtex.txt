@@ -1,0 +1,9 @@
+@article{rangarajan2020smart,
+  title={SMART: A secure magnetoelectric antiferromagnet-based tamper-proof non-volatile memory},
+  author={Rangarajan, Nikhil and Patnaik, Satwik and Knechtel, Johann and Sinanoglu, Ozgur and Rakheja, Shaloo},
+  journal={IEEE Access},
+  volume={8},
+  pages={76130--76142},
+  year={2020},
+  publisher={IEEE}
+}

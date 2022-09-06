@@ -1,0 +1,10 @@
+@article{li2020deep,
+  title={Deep learning analysis for split-manufactured layouts with routing perturbation},
+  author={Li, Haocheng and Patnaik, Satwik and Ashraf, Mohammed and Yang, Haoyu and Knechtel, Johann and Yu, Bei and Sinanoglu, Ozgur and Young, Evangeline FY},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  volume={40},
+  number={10},
+  pages={1995--2008},
+  year={2020},
+  publisher={IEEE}
+}

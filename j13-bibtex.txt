@@ -1,0 +1,10 @@
+@article{patnaik2021concerted,
+  title={Concerted wire lifting: Enabling secure and cost-effective split manufacturing},
+  author={Patnaik, Satwik and Ashraf, Mohammed and Li, Haocheng and Knechtel, Johann and Sinanoglu, Ozgur},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  volume={41},
+  number={2},
+  pages={266--280},
+  year={2021},
+  publisher={IEEE}
+}

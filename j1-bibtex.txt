@@ -1,0 +1,10 @@
+@article{rangarajan2019spin,
+  title={Spin-based reconfigurable logic for power-and area-efficient applications},
+  author={Rangarajan, Nikhil and Patnaik, Satwik and Knechtel, Johann and Sinanoglu, Ozgur and Rakheja, Shaloo},
+  journal={IEEE Design \& Test},
+  volume={36},
+  number={3},
+  pages={22--30},
+  year={2019},
+  publisher={IEEE}
+}

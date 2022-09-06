@@ -1,0 +1,9 @@
+@article{alrahis2021gnnunlock+,
+  title={GNNUnlock+: A systematic methodology for designing graph neural networks-based oracle-less unlocking schemes for provably secure logic locking},
+  author={Alrahis, Lilas and Patnaik, Satwik and Hanif, Muhammad Abdullah and Saleh, Hani and Shafique, Muhammad and Sinanoglu, Ozgur},
+  journal={IEEE Transactions on Emerging Topics in Computing},
+  number={01},
+  pages={1--1},
+  year={2021},
+  publisher={IEEE Computer Society}
+}

@@ -1,0 +1,7 @@
+@article{rajasekharan2021scanet,
+  title={SCANet: Securing the Weights With Superparamagnetic-MTJ Crossbar Array Networks},
+  author={Rajasekharan, Dinesh and Rangarajan, Nikhil and Patnaik, Satwik and Sinanoglu, Ozgur and Chauhan, Yogesh Singh},
+  journal={IEEE transactions on neural networks and learning systems},
+  year={2021},
+  publisher={IEEE}
+}

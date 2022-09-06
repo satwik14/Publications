@@ -1,0 +1,10 @@
+@article{nabeel20202,
+  title={2.5 D root of trust: Secure system-level integration of untrusted chiplets},
+  author={Nabeel, Mohammed and Ashraf, Mohammed and Patnaik, Satwik and Soteriou, Vassos and Sinanoglu, Ozgur and Knechtel, Johann},
+  journal={IEEE Transactions on Computers},
+  volume={69},
+  number={11},
+  pages={1611--1625},
+  year={2020},
+  publisher={IEEE}
+}

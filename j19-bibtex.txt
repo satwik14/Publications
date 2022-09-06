@@ -1,0 +1,9 @@
+@article{gohil2021games,
+  title={Games, Dollars, Splits: A Game-Theoretic Analysis of Split Manufacturing},
+  author={Gohil, Vasudev and Tressler, Mark and Sipple, Kevin and Patnaik, Satwik and Rajendran, Jeyavijayan},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={16},
+  pages={5077--5092},
+  year={2021},
+  publisher={IEEE}
+}
