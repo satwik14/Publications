@@ -1,0 +1,8 @@
+@inproceedings{patnaik2018advancing,
+  title={Advancing hardware security using polymorphic and stochastic spin-hall effect devices},
+  author={Patnaik, Satwik and Rangarajan, Nikhil and Knechtel, Johann and Sinanoglu, Ozgur and Rakheja, Shaloo},
+  booktitle={2018 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={97--102},
+  year={2018},
+  organization={IEEE}
+}

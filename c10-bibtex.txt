@@ -1,0 +1,8 @@
+@inproceedings{alrahis2021gnnunlock,
+  title={GNNUnlock: Graph neural networks-based oracle-less unlocking scheme for provably secure logic locking},
+  author={Alrahis, Lilas and Patnaik, Satwik and Khalid, Faiq and Hanif, Muhammad Abdullah and Saleh, Hani and Shafique, Muhammad and Sinanoglu, Ozgur},
+  booktitle={2021 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={780--785},
+  year={2021},
+  organization={IEEE}
+}

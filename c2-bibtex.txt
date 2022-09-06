@@ -1,0 +1,8 @@
+@inproceedings{sengupta2017rethinking,
+  title={Rethinking split manufacturing: An information-theoretic approach with secure layout techniques},
+  author={Sengupta, Abhrajit and Patnaik, Satwik and Knechtel, Johann and Ashraf, Mohammed and Garg, Siddharth and Sinanoglu, Ozgur},
+  booktitle={2017 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)},
+  pages={329--326},
+  year={2017},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{knechtel20193d,
+  title={3D integration: another dimension toward hardware security},
+  author={Knechtel, Johann and Patnaik, Satwik and Sinanoglu, Ozgur},
+  booktitle={2019 IEEE 25th International Symposium on On-Line Testing and Robust System Design (IOLTS)},
+  pages={147--150},
+  year={2019},
+  organization={IEEE}
+}

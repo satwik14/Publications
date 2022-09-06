@@ -1,0 +1,8 @@
+@inproceedings{alrahis2021untangle,
+  title={UNTANGLE: unlocking routing and logic obfuscation using graph neural networks-based link prediction},
+  author={Alrahis, Lilas and Patnaik, Satwik and Hanif, Muhammad Abdullah and Shafique, Muhammad and Sinanoglu, Ozgur},
+  booktitle={2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)},
+  pages={1--9},
+  year={2021},
+  organization={IEEE}
+}

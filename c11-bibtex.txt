@@ -1,0 +1,8 @@
+@inproceedings{limaye2021fa,
+  title={Fa-SAT: Fault-aided SAT-based attack on compound logic locking techniques},
+  author={Limaye, Nimisha and Patnaik, Satwik and Sinanoglu, Ozgur},
+  booktitle={2021 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={1166--1171},
+  year={2021},
+  organization={IEEE}
+}

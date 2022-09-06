@@ -1,0 +1,8 @@
+@inproceedings{alrahis2022muxlink,
+  title={MuxLink: circumventing learning-resilient MUX-locking using graph neural network-based link prediction},
+  author={Alrahis, Lilas and Patnaik, Satwik and Shafique, Muhammad and Sinanoglu, Ozgur},
+  booktitle={2022 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={694--699},
+  year={2022},
+  organization={IEEE}
+}

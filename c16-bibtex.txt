@@ -1,0 +1,6 @@
+@article{patnaik2022reinforcement,
+  title={Reinforcement Learning for Hardware Security: Opportunities, Developments, and Challenges},
+  author={Patnaik, Satwik and Gohil, Vasudev and Guo, Hao and others},
+  journal={arXiv preprint arXiv:2208.13885},
+  year={2022}
+}

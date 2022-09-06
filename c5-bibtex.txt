@@ -1,0 +1,8 @@
+@inproceedings{patnaik2018raise,
+  title={Raise your game for split manufacturing: Restoring the true functionality through BEOL},
+  author={Patnaik, Satwik and Ashraf, Mohammed and Knechtel, Johann and Sinanoglu, Ozgur},
+  booktitle={2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}

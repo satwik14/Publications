@@ -1,0 +1,8 @@
+@inproceedings{patnaik2017obfuscating,
+  title={Obfuscating the interconnects: Low-cost and resilient full-chip layout camouflaging},
+  author={Patnaik, Satwik and Ashraf, Mohammed and Knechtel, Johann and Sinanoglu, Ozgur},
+  booktitle={2017 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)},
+  pages={41--48},
+  year={2017},
+  organization={IEEE}
+}

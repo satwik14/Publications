@@ -1,0 +1,6 @@
+@article{alrahis2022embracing,
+  title={Embracing Graph Neural Networks for Hardware Security},
+  author={Alrahis, Lilas and Patnaik, Satwik and Shafique, Muhammad and Sinanoglu, Ozgur},
+  journal={arXiv preprint arXiv:2208.08554},
+  year={2022}
+}

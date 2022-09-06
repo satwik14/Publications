@@ -1,0 +1,8 @@
+@inproceedings{patnaik2018concerted,
+  title={Concerted wire lifting: Enabling secure and cost-effective split manufacturing},
+  author={Patnaik, Satwik and Knechtel, Johann and Ashraf, Mohammed and Sinanoglu, Ozgur},
+  booktitle={2018 23rd Asia and South Pacific Design Automation Conference (ASP-DAC)},
+  pages={251--258},
+  year={2018},
+  organization={IEEE}
+}

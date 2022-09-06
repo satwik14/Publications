@@ -1,0 +1,8 @@
+@inproceedings{li2019attacking,
+  title={Attacking split manufacturing from a deep learning perspective},
+  author={Li, Haocheng and Patnaik, Satwik and Sengupta, Abhrajit and Yang, Haoyu and Knechtel, Johann and Yu, Bei and Young, Evangeline FY and Sinanoglu, Ozgur},
+  booktitle={2019 56th ACM/IEEE Design Automation Conference (DAC)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}

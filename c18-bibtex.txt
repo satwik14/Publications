@@ -1,0 +1,6 @@
+@article{gohil2022attrition,
+  title={ATTRITION: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning},
+  author={Gohil, Vasudev and Guo, Hao and Patnaik, Satwik and others},
+  journal={arXiv preprint arXiv:2208.12897},
+  year={2022}
+}

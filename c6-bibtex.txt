@@ -1,0 +1,8 @@
+@inproceedings{patnaik2018best,
+  title={Best of both worlds: Integration of split manufacturing and camouflaging into a security-driven CAD flow for 3D ICs},
+  author={Patnaik, Satwik and Ashraf, Mohammed and Sinanoglu, Ozgur and Knechtel, Johann},
+  booktitle={2018 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)},
+  pages={1--8},
+  year={2018},
+  organization={IEEE}
+}

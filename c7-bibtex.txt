@@ -1,0 +1,7 @@
+@inproceedings{knechtel2019protect,
+  title={Protect your chip design intellectual property: An overview},
+  author={Knechtel, Johann and Patnaik, Satwik and Sinanoglu, Ozgur},
+  booktitle={Proceedings of the International Conference on Omni-Layer Intelligent Systems},
+  pages={211--216},
+  year={2019}
+}
