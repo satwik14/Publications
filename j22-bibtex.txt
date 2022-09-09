@@ -1,0 +1,9 @@
+@article{limaye2022valkyrie,
+  title={Valkyrie: Vulnerability Assessment Tool and Attack for Provably-Secure Logic Locking Techniques},
+  author={Limaye, Nimisha and Patnaik, Satwik and Sinanoglu, Ozgur},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={17},
+  pages={744--759},
+  year={2022},
+  publisher={IEEE}
+}
