@@ -1,0 +1,9 @@
+@article{knechtel2022design,
+  title={Design-time exploration of voltage switching against power analysis attacks in 14 nm FinFET technology},
+  author={Knechtel, Johann and Ashraf, Tarek and Fernengel, Natascha and Patnaik, Satwik and Nabeel, Mohammed and Ashraf, Mohammed and Sinanoglu, Ozgur and Amrouch, Hussam},
+  journal={Integration},
+  volume={85},
+  pages={27--34},
+  year={2022},
+  publisher={Elsevier}
+}
