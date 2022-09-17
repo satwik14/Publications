@@ -1,0 +1,9 @@
+@ARTICLE{patnaik2022hide,
+  author={Patnaik, Satwik and Limaye, Nimisha and Sinanoglu, Ozgur},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Hide & Seek: Seeking the (Un)-Hidden key in Provably-Secure Logic Locking Techniques}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIFS.2022.3207361}}
