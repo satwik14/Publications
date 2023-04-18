@@ -1,6 +1,7 @@
-@article{alrahis2022embracing,
+@inproceedings{alrahis2022embracing,
   title={Embracing Graph Neural Networks for Hardware Security},
   author={Alrahis, Lilas and Patnaik, Satwik and Shafique, Muhammad and Sinanoglu, Ozgur},
-  journal={arXiv preprint arXiv:2208.08554},
+  booktitle={Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design},
+  pages={1--9},
   year={2022}
 }
