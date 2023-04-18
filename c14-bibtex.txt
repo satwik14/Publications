@@ -1,0 +1,8 @@
+@inproceedings{rangarajan2022scramble,
+  title={SCRAMBLE: A Secure and Configurable, Memristor-Based Neuromorphic Hardware Leveraging 3D Architecture},
+  author={Rangarajan, Nikhil and Patnaik, Satwik and Nabeel, Mohammed and Ashraf, Mohammed and Rai, Shubham and Raut, Gopal and Abunahla, Heba and Mohammad, Baker and Vishvakarma, Santosh Kumar and Kumar, Akash and others},
+  booktitle={2022 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)},
+  pages={308--313},
+  year={2022},
+  organization={IEEE}
+}
